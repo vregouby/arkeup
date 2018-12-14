@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+<template name="Home Industry" id="home-industry">
+<t t-call="website.layout">
+<div class="page-wrapper oe_structure">
+    <section class="as-animated-slider p-0" style="background-image: url('/theme_impacto/static/src/img/industry/banner-01.jpg'); background-size: cover;">
+        <div id="carousel-1" class="carousel slide banner indicators-right text-right" data-ride="carousel" data-arrow="none">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-1" data-slide-to="1" class=""></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <div class="slide-item">
+                        <div class="slider-text">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-4">
+                                        <div class="shop-banner p-0">
+                                            <label class="shop-lable lable-light size-xs text-uppercase l-space-6">BUILT FOR</label>
+                                            <h2 class="text-light title-large text-uppercase l-space-5">Eye Pleasing</h2>
+                                            <h3 class="text-light title-large text-uppercase f-weight-300">Eye Pleasing</h3>
+                                            <a href="#" class="mt-1 btn btn-default btn-md btn-outline white">Contact Us</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="slide-item">
+                        <div class="slider-text">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-4">
+                                        <div class="shop-banner p-0">
+                                            <label class="shop-lable lable-light size-xs text-uppercase l-space-6">BUILT FOR</label>
+                                            <h2 class="text-light title-large text-uppercase l-space-5">Eye Pleasing</h2>
+                                            <h3 class="text-light title-large text-uppercase f-weight-300">Eye Pleasing</h3>
+                                            <a href="#" class="mt-1 btn btn-default btn-md btn-outline white">Contact Us</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+</section>
+
+<section class="section-md pt-0" style="margin-top: -60px;">
+    <div class="container box-shadow">
+      <div class="row no-gutter">
+        <div class="col-md-4 white-bg">
+          <div class=" pxy-4">
+              <h4 class="title">Experienced Team</h4>
+              <p style="margin-bottom:0;">Testing is the name given to software testing that focuses on web applications.</p>
+          </div>
+        </div>
+        <div class="col-md-4 grey-bg">
+          <div class=" pxy-4">
+              <h4 class="title">Primary Care</h4>
+              <p style="margin-bottom:0;">Testing is the name given to software testing that focuses on web applications.</p>
+          </div>
+        </div>
+        <div class="col-md-4 white-bg">
+          <div class=" pxy-4">
+              <h4 class="title">Academic Research</h4>
+              <p style="margin-bottom:0;">Testing is the name given to software testing that focuses on web applications.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="section-md pt-0" style="background-image: url('/theme_impacto/static/src/img/industry/about-bg.jpg'); background-size: cover;">
+<div class="container">
+  <div class="row ">
+    <div class="col-md-6">
+      <div class="heading-block">
+        <div class="sub-heading">About Us</div>
+        <h2 class="text-uppercase">We Keep Things <span class="f-weight-300">Simple We assure quality</span></h2>
+      </div>
+      <p class="mb-2">Design must reflect the practical and aesthetic in business but above all Design must reflect the practical and aesthetic in business but above all... good design must primarily serve people.</p>
+      <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="feature ">
+            <div class="feature-icon theme-text"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
+            <div class="feature-info">
+              <h5 class="title">What We Do</h5>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+            <div class="feature ">
+            <div class="feature-icon theme-text"><i class="fa fa-trophy" aria-hidden="true"></i></div>
+            <div class="feature-info">
+              <h5 class="title">Our History</h5>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6" >
+      <img class="img-responsive" src="/theme_impacto/static/src/img/about/img-06.png" alt="" />
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="section-md grey-bg">
+	<div class="container">
+		<div class="row">
+		  <div class="col-md-5">
+			<div class="heading-block">
+			  <div class="sub-heading">Our Product</div>
+			  <h2 class="text-uppercase">We Keep Things <span class="f-weight-300">Simple We assure quality.</span></h2>
+			</div>
+			</div>
+			<div class="col-md-7">
+			<p class="mb-2 lead">Lorem ipsum dolor s it amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore orem ipsum dolor s it amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt It is a vital part of developing new products.</p>
+		  </div>
+		</div> 
+    <div class="row mt-4">
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-01.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Design and Development</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-02.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Social Media Marketing</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-03.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Mobile App Development</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-4">
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-04.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Design and Development</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-05.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Social Media Marketing</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="photobox style2">
+            <div class="photobox-img">
+              <img src="/theme_impacto/static/src/img/industry/img-06.jpg" class="img-responsive" alt="" />
+            </div>
+            <div class="photobox-content">
+              <h5>Mobile App Development</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+</div></section>
+
+  <section class="dark-bg pos-r section-sm" style="background: #223041">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10">
+          <h2 class="text-uppercase">We assure quality, prompt and reliable service, </h2>
+          <h3 class="text-uppercase f-weight-300">strong after-sales supports and quality products and services.</h3>
+        </div>
+        <div class="col-md-2">
+            <a href="#" class="mt-1 btn btn-default btn-md btn-outline white">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="section-md">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="heading-block">
+            <div class="sub-heading">WHO WE ARE</div>
+            <h2 class="text-uppercase">We Create <span class="f-weight-300">brand new Corporate Identities.</span></h2>
+          </div>
+          <p>We make websites are the number one ranked design, build and marketing team. We build custom, unique, creative and beautiful websites that will make you more successful.</p>
+          <ul class="list round mt-2">
+            <li>We provide free initial consultation and support.</li>
+            <li>We work with some of the most successful businesses.</li>
+            <li>We have the professional designers team.</li>
+            <li>We provide free initial consultation and support.</li>
+            <li>We work with some of the most successful businesses.</li>
+          </ul>
+        </div>
+        <br/>
+        <div class="col-md-6">
+          <img class="img-responsive img-shadow" style="width: 100%" src="/theme_impacto/static/src/img/industry/img-011.jpg" alt="" />
+        </div>
+      </div>
+    </div>
+</section>
+
+<section class="section-md dark-bg pos-r" style="background-image: url('/theme_impacto/static/src/img/industry/bg-02.jpg'); background-size: cover;">
+  <div class="container">
+    <div class="row"> 
+        <div class="col-md-4">              
+          <div class="feature icon-bg text-center theme-feature px-2">
+             <div class="feature-icon theme-text"><i class="fa fa-paint-brush" aria-hidden="true"></i></div>
+             <div class="feature-info">
+                <h5>Project Planning</h5>
+                <p>Web design encompasses many different skills and disciplines in the production of websites.</p>
+             </div>
+          </div>
+        </div>
+        <div class="col-md-4">              
+          <div class="feature icon-bg text-center theme-feature px-2">
+             <div class="feature-icon theme-text"><i class="fa fa-user" aria-hidden="true"></i></div>
+             <div class="feature-info">
+                <h5>Project Crafting</h5>
+                <p>It is a range of customer services to assist customers in making cost effective and correct use of a product.</p>
+             </div>
+          </div>
+        </div>
+        <div class="col-md-4">              
+          <div class="feature icon-bg text-center theme-feature px-2">
+             <div class="feature-icon theme-text"><i class="fa fa-cog" aria-hidden="true"></i></div>
+             <div class="feature-info">
+                <h5>Product Delivery</h5>
+                <p>The process of economic and social transformation that is based on complex cultural factors.</p>
+             </div>
+          </div>
+        </div>
+      </div>         
+  </div>
+</section>
+
+<section class="section-md"><div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="heading-block">
+          <h2 class="text-uppercase">We Keep Things <span class="f-weight-300">Simple We assure quality.</span></h2>
+        </div>
+        </div>
+        <div class="col-md-7">
+        <p class="mb-2 lead">Lorem ipsum dolor s it amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore orem ipsum dolor s it amet, conse ctetur adipisicing elit</p>
+      </div>
+    </div> 
+    <div class="row mt-4">
+        <div class="col-md-12 text-center">
+            <h5 style="font-size: 4em;">Blog Slider Here...</h5>
+        </div>
+      </div>
+</div></section>
+</div>
+</t>
+</template>
+<record id="home-industry_record" model="website.page">
+        <field name="url">/home-industry</field>
+        <field name="website_published">True</field>
+        <field name="view_id" ref="home-industry"/>
+</record>
+</odoo>
